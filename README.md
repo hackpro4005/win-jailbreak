@@ -23,5 +23,4 @@ Step 7: Shut down and boot back into Windows
 
 Step 8: Run the installer as admin
 
-
-
+API COMING SOON FOR ROOT APPS!
